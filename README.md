@@ -12,4 +12,4 @@ compile 'com.dasu.tv:tv:0.0.2'
 
 # 效果  
 
-![](https://upload-images.jianshu.io/upload_images/1924341-218524f08ceefb17.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+![TvGridLayout](https://upload-images.jianshu.io/upload_images/1924341-218524f08ceefb17.gif)
